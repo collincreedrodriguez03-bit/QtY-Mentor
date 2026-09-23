@@ -1,0 +1,8 @@
+{
+  "name": "QtY Mentor",
+  "description": "QtY Mentor is the training and practice companion for quantitative telemetry and BTC price action mastery, featuring live data, TradingView-style charts, paper trading, replay simulation, and Journal analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
